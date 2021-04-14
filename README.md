@@ -21,7 +21,7 @@ The task involved building an employee database with postgresql by applying data
     Because some employees may have multiple titles in the database—for example, due to promotions
 
 
-        -![](Images/no1.png)
+        -![](no1.png)
 
 
         -![](Images/no1RT.png)
