@@ -21,19 +21,19 @@ The task involved building an employee database with postgresql by applying data
     Because some employees may have multiple titles in the database—for example, due to promotions
 
 
-        -![](no1.png)
+        -![](IMAGES/no1.png)
 
 
-        -![](Images/no1RT.png)
+        -![](IMAGES/no1RT.png)
 
 
     -I created a mentorship_eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965
     and who are eligible for the mentorship program put together by the  manager.
 
-        -![](Images/no2.png)
+        -![](IMAGES/no2.png)
 
 
-        -!![](Images/no2ME.png)
+        -!![](IMAGES/no2ME.png)
 
 
 ### Summary
