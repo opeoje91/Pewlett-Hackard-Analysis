@@ -27,7 +27,7 @@ The task involved building an employee database with postgresql by applying data
          ![ScreenShot](no1RT.png)
 
 
-        ![](IMAGES/no1UT.png)
+        ![](/IMAGES/no1UT.png)
         
 
     -I created a mentorship_eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965
