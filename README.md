@@ -21,13 +21,13 @@ The task involved building an employee database with postgresql by applying data
     Because some employees may have multiple titles in the database—for example, due to promotions
 
 
-         ![](no1.png)
+         ![ScreenShot](no1.png)
         
 
-         ![](no1RT.png)
+         ![ScreenShot](no1RT.png)
 
 
-        ![](https://github.com/opeoje91/Pewlett-Hackard-Analysis/blob/main/IMAGES/no1UT.png)
+        ![ScreenShot](https://github.com/opeoje91/Pewlett-Hackard-Analysis/blob/main/IMAGES/no1UT.png)
         
 
     -I created a mentorship_eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965
