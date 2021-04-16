@@ -37,6 +37,8 @@ The task involved building an employee database with postgresql by applying data
 
 
          ![](https://github.com/opeoje91/Pewlett-Hackard-Analysis/blob/main/IMAGES/no2ME.png)
+         ![no1](https://user-images.githubusercontent.com/76888695/115076406-22d28c80-9ec2-11eb-9901-e825e12aa162.png)
+
 
 
 ### Summary
