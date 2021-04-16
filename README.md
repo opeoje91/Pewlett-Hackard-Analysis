@@ -21,12 +21,12 @@ The task involved building an employee database with postgresql by applying data
     Because some employees may have multiple titles in the database—for example, due to promotions
 
 
-<<<<<<< HEAD
+<<<<<<< 
          ![](https://github.com/opeoje91/Pewlett-Hackard-Analysis/blob/main/IMAGES/no1.png)
         
 
 
-         ![](IMAGES/no1RT.png)
+         ![](https://github.com/opeoje91/Pewlett-Hackard-Analysis/blob/main/IMAGES/no1RT.png)
 =======
          ![](IMAGES/no1.png)
         
