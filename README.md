@@ -28,6 +28,7 @@ The task involved building an employee database with postgresql by applying data
 
 
         ![](https://github.com/opeoje91/Pewlett-Hackard-Analysis/blob/main/IMAGES/no1UT.png)
+        
 
     -I created a mentorship_eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965
     and who are eligible for the mentorship program put together by the  manager.
