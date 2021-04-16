@@ -22,6 +22,9 @@ The task involved building an employee database with postgresql by applying data
 
 
          ![ScreenShot](no1.png)
+         <p>
+            <img src="IMAGES/no1.png" width="220" height="240" />
+         </p>
         
 
          ![ScreenShot](no1RT.png)
